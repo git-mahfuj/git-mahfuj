@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mahfuj  
-### A Passionate Full-Stack Web Developer from Dhaka, Bangladesh  
+### A Passionate Learner from Dhaka, Bangladesh  
 
 💡 I love turning ideas into interactive and dynamic web experiences.  
 I’m dedicated to writing clean, efficient, and scalable code while constantly learning new technologies.
@@ -37,24 +37,18 @@ My Journey Started From January 2025 and Still to go !!
 
 ### 📈 Currently Working On
 - Building full-stack web applications with the MERN stack  
-- Learning advanced Next.js features (SSR, ISR, Middleware)  
-- Exploring UI motion design using GSAP
+- Learning advanced Next.js features
+- Exploring Industry level Backend system
 - Exploring and Mastering it
 
 ---
 
 ### 🌱 What I’m Learning Next
 - Advanced TypeScript patterns  
-- Performance optimization in React & Node.js  
+- Performance optimization in React & Node.js
 - DevOps basics (Docker, CI/CD)
-
----
-
-### 🏗️ Featured Projects
-- 🔗 [Portfolio Website] [My Portfolio](https://console-mahfuj-fxaq.vercel.app/)
- 
-- 🛒 [E-commerce App (MERN)](#) *(Coming Soon)*
-- 📚 [Learning Management System (Next.js + MongoDB)](#)
+- Industry level backend system 
+  
 
 ---
 
