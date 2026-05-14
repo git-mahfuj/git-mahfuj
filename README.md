@@ -4,7 +4,7 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -27,12 +27,12 @@
 
 ---
 
-### ⚙️ Currently
+### Currently
 Dissecting industry-level systems. Understanding what actually runs at scale.
 
 ---
 
-### 📫 Connect
+### Connect
 <p align="left">
   <a href="https://github.com/git-mahfuj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mahfujur-rahman-364233357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -41,6 +41,8 @@ Dissecting industry-level systems. Understanding what actually runs at scale.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-mahfuj&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mahfuj&layout=compact&theme=github_dark)
+![GitHub Stats](https://your-vercel-app.vercel.app/api?username=git-mahfuj&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true)
+
+![Top Languages](https://your-vercel-app.vercel.app/api/top-langs/?username=git-mahfuj&layout=compact&theme=github_dark&count_private=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-mahfuj&theme=github_dark)
