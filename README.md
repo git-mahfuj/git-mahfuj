@@ -1,58 +1,38 @@
-# 👋 Hi, I'm Mahfuj  
-### A Passionate Learner from Dhaka, Bangladesh  
-
-💡 I love turning ideas into interactive and dynamic web experiences.  
-I’m dedicated to writing clean, efficient, and scalable code while constantly learning new technologies.
-
-My Journey Started From January 2025 and Still to go !!
-
-**This year, I built the foundation.**  
-**Next year, I rise.**
+# I'm Mahfujur Rahman
+### Developer or Learner ?? maybe both.
+> From Dhaka, Bangladesh
 
 ---
 
-### 🧠 My Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### 🧠 Tech Stack
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat&logo=mobx&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-3E5DFF?style=flat&logo=clerk&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-FF3E00?style=flat&logo=sanity&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Algolia](https://img.shields.io/badge/Algolia-003DFF?style=flat&logo=algolia&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
----
-
-### 📈 Currently Working On
-- Building full-stack web applications with the MERN stack  
-- Learning advanced Next.js features
-- Exploring Industry level Backend system
-- Exploring and Mastering it
 
 ---
 
-### 🌱 What I’m Learning Next
-- Advanced TypeScript patterns  
-- Performance optimization in React & Node.js
-- DevOps basics (Docker, CI/CD)
-- Industry level backend system 
-  
+### ⚙️ Currently
+Dissecting industry-level systems. Understanding what actually runs at scale.
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect
 <p align="left">
   <a href="https://github.com/git-mahfuj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mahfujur-rahman-364233357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -60,18 +40,7 @@ My Journey Started From January 2025 and Still to go !!
 </p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-mahfuj&show_icons=true&theme=github_dark
-)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mahfuj&layout=compact&theme=github_dark
-)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-mahfuj&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mahfuj&layout=compact&theme=github_dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-mahfuj&theme=github_dark)
-
-### ⚡ Fun Fact
-> “Code is like humor — when you have to explain it, it’s bad.” 😄  
-
----
-
-⭐ **Check out my repositories and feel free to collaborate!**
