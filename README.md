@@ -7,7 +7,7 @@ I'm a passionate developer currently focused on dissecting industry-level system
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend Development**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -44,7 +44,7 @@ I'm a passionate developer currently focused on dissecting industry-level system
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 <p align="left">
   <a href="https://github.com/git-mahfuj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mahfujur-rahman-364233357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -53,11 +53,14 @@ I'm a passionate developer currently focused on dissecting industry-level system
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-mahfuj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-mahfuj&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-mahfuj&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-mahfuj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mahfuj&layout=compact&theme=tokyonight&count_private=true)
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-mahfuj&theme=github_dark)
