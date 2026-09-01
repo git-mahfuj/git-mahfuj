@@ -1,31 +1,29 @@
 # Mahfujur Rahman
 > **Learner | System Design Enthusiast | Developer**
 
-Welcome to my GitHub page! I am very excited about building highly scalable, fault-tolerant systems and being able to explore software architecture constantly to understand how it really works at scale. My area of expertise is backend architecture with very good front-end knowledge as well.
+Welcome !
 
 ---
 
-### Core Engineering & Architecture
+###  Core Engineering & Architecture
 
-🔹 **Backend & Runtime:** `Node.js (Primary)` ◦ `C++` ◦ `C`  
-🔹 **Databases & Cache:** `PostgreSQL` ◦ `MongoDB` ◦ `Redis`  
-🔹 **Architecture & APIs:** `GraphQL` ◦ `REST API` ◦ `WebSocket` ◦ `OpenAPI` ◦ `OAuth 2.0`  
+ - **Backend & Runtime:**  Node.js (Primary) ,  C++  ,  C 
+ - **Databases & Cache:**  PostgreSQL  ,  MongoDB  , Redis
+ - **Architecture & APIs:** GraphQL  ,  REST API  ,  WebSocket  ,  OpenAPI  ,  OAuth 2.0  , Monorepo (Turborepo)
+ - **DevOps & Containers:** Docker  ,  CI/CD (GitHub Actions)  ,  Git  ,  Linux
 
----
+###  Frontend & User Experience
 
-### Frontend & User Experience
-*Building seamless and interactive interfaces*
-
-🔸 **Frameworks:** `TypeScript` ◦ `React.js` ◦ `Next.js`  
-🔸 **State & Data:** `TanStack Query` ◦ `MobX`  
-🔸 **Styling & UI:** `Tailwind CSS` ◦ `Shadcn` ◦ `DND Kit` ◦ `Recharts`  
+ - **Frameworks:**  TypeScript  ,  React.js  ,  Next.js
+ - **State & Data:**  TanStack Query  ,  MobX
+ - **Styling & UI:**  Tailwind CSS  ,  Shadcn  ,  DND Kit  ,  Recharts
 
 ---
 
 ### Tools & Platforms
 
-▪️ **Project & API Management:** `Jira` ◦ `Linear` ◦ `Postman`  
-▪️ **CMS:** `WordPress`  
+- **Project & API Management:** Jira  ,  Linear  ,  Postman  
+- **CMS:** WordPress  
 
 ---
 
